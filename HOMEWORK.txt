@@ -1,0 +1,3 @@
+Create GUI program with 2 textfields and 1 button.
+Program must combine name from 1 textfield with second_name from another textfield, and after button is clicked name + second name must be
+printed in console with System.out.println().
